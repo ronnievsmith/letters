@@ -21,7 +21,12 @@ I needed to increment letters with JavaScript and found that a custom solution w
 
 ## API Reference
 
+A single method, `increment` is exposed and accepts letters only.
+```
 letters.increment('a')	-->	B
+letters.increment('z')	-->	AA
+letters.increment('a1')	-->	error: Letters Only
+```
 
 ## Contributors
 
