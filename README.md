@@ -1,7 +1,7 @@
 # [letters.js](https://rack.pub/letters)
 ## Synopsis
 
-A small JavaScript plug in to increment letters of the alphabet.  Basically it increments letters like the column ID's of an Excel spreadsheet, e.g., submitting `A` returns `B` and `Z` returns `AA`.
+JavaScript to increment letters of the alphabet.  Basically it increments letters like the column ID's of an Excel spreadsheet, e.g., submitting `A` returns `B` and `Z` returns `AA`.
 
 ## Code Example
 
